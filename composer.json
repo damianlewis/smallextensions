@@ -1,5 +1,5 @@
 {
-    "name": "damianlewis/smallextensions",
+    "name": "janvince/smallextensions",
     "description": "Set of very simple extensions for OctoberCMS and it's plugins.",
     "type": "october-plugin",
     "license": "MIT",
